@@ -1,0 +1,16 @@
+{
+  "name": "get-a-line",
+  "version": "1.0.0",
+  "description": "A quick and easy wrapper for reading in a line from a stream.",
+  "main": "get-a-line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wiwa",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/WiWa/get-a-line"
+  },
+
+  "license": "ISC"
+}
